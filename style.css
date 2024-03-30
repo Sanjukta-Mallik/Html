@@ -1,0 +1,23 @@
+#bd
+{
+    background-image: url(https://media.gcflearnfree.org/ctassets/topics/246/share_flower_fullsize.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+    color: white;
+}
+p
+{
+    text-align: center;
+}
+#para1,#para2
+{
+    background-color: red;
+    
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px
+    margin-top: 50px;
+    border: 1ox solid yellow;
+}
