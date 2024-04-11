@@ -1,36 +1,41 @@
-#bd
+body
 {
-    background-color: #efefef;
+    background-color: antiquewhite;
 }
-p
-{
-    text-align: center;
+.img{
+    float: right;
+}
+nav{
+    float: right;
+}
+li{
+    float: right;
+    margin-left: 10px;
+    list-style-type:none;
+    background-color: aquamarine;
+    box-sizing: border-box;
+    padding: 5px;
+    border-radius: 20px;
     
 }
-#para1
-{
-    background-color: rgb(43, 34, 75);
-    width: auto;
+li:hover{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.box{
+    width: 926px;
     left: 0px;
-    padding: 0px;
+    background-color: #2d3954;
+    padding: 20px;
     position: relative;
     box-sizing: border-box;
-    font-size: 1cm;
-    font-weight: 400;
-    line-height: 2.5;
     color: white;
-    padding-right: 30px;
-    padding-bottom: 0px;
-    padding-left: 80px;
     text-align: center;
-    
-}
 
-.left{
-    
-     align-items: justif;
 }
-
-img{
-    
-}
+.img
